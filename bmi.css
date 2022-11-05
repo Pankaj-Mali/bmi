@@ -1,0 +1,45 @@
+.maicontainer{
+    height: auto;
+    width: 50%;
+    border:1px solid gray;
+    padding: 20px;
+    display: inline-block;
+}
+input{
+    margin-top: 10px;
+}
+#age{
+
+    width: auto;
+    display: inline-block;
+}
+#spanInfo{
+    float: right;
+    color: red;
+}
+
+.buttonHolder{
+    margin: auto;
+    margin-top: 10px;
+    width: 30%;
+
+}
+
+#calculate{
+    background-color: rgb(27, 201, 27);
+    color: white;
+    height: 30px;
+    border: 0px solid white;
+
+}
+
+#clear{
+    background-color: rgb(11, 155, 11);
+    color: white;
+    height: 30px;
+    border: 0px solid white;
+}
+.result{
+    display: inline-block;
+    float: right;
+}
