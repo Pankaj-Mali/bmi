@@ -39,7 +39,7 @@ input{
     height: 30px;
     border: 0px solid white;
 }
-.result{
+#result{
     display: inline-block;
     float: right;
 }
